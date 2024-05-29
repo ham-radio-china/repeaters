@@ -1,8 +1,9 @@
 ## 业余无线电中继 Amateur Radio Repeaters
 
 ### 1. 省市列表
-* [江苏省 (Jiangsu)](jiangsu.md)
 * [上海市 (Shanghai)](shanghai.md)
+* [江苏省 (Jiangsu)](jiangsu.md)
+* [浙江省 (Zhejiang)](zhejiang.md)
 
 
 ### 2. 参考资料
